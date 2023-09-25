@@ -10,7 +10,7 @@ Is available the code to generate the random postions users set, too. Is importa
 
 The next image show process to calculate optimal desings:
 
-![Process to design optimal WLANs.]()
+![Process to design optimal WLANs.](Files/processk-means.png)
 
 ## Cite as
 ```
