@@ -1,4 +1,4 @@
-# WLANs-optimal-designs-methodology
+# WLANs optimal designs methodology
 
 We introducing a software implemented in [Matlab](www.mathworks.com/products/matlab.html "Matlab"), which use the [Balanced k-means](https://link.springer.com/chapter/10.1007/978-3-662-44415-3_4) algorithm and the [IEEE 802.11ax channel model](mentor.ieee.org/802.11/dcn/14/11-14-0882-04-00ax-tgax-channel-model-document.docx "IEEE 802.11ax channel model") para obtener diseños óptimos de WLANs. EL software entrega diseños óptimos para las configuraciones de 1 a 5 APs en escenarios interiores en forma de coordenadas de posiciones dentro del espacio y dependiendo de la cantidad de clusters.
 
@@ -11,6 +11,8 @@ Is available the code to generate the random postions users set, too. Is importa
 The next image show process to calculate optimal desings:
 
 ![Process to design optimal WLANs.](Files/processk-means.png)
+
+Execute the principal archive [index](https://github.com/johanflorez98/WLANs-optimal-designs-methodology/blob/main/Codes/MATLAB%20files/Balanced%20k-means/index.m).
 
 ## Cite as
 ```
