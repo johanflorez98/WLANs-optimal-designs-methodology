@@ -12,6 +12,8 @@ The next image show process to calculate optimal desings:
 
 ![Process to design optimal WLANs.](Files/processk-means.png)
 
+Execute the principal archive [index](https://github.com/johanflorez98/WLANs-optimal-designs-methodology/blob/main/Codes/MATLAB%20files/Balanced%20k-means/index.m).
+
 ## Cite as
 ```
 
