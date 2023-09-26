@@ -16,5 +16,15 @@ Execute the principal archive [index](https://github.com/johanflorez98/WLANs-opt
 
 ## Cite as
 ```
-
+  @software{andres_j_florez_gonzalez_2023_8378219,
+  author       = {Andres J. Florez-Gonzalez. and
+                  Carlos A. Viteri-Mera.},
+  title        = {WLANs optimal designs methodology},
+  month        = sep,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {v1.0},
+  doi          = {10.5281/zenodo.8378219},
+  url          = {https://doi.org/10.5281/zenodo.8378219}
+}
 ```
