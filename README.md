@@ -26,5 +26,5 @@ Execute the principal archive [index](https://github.com/johanflorez98/WLANs-opt
   version      = {v1.0},
   doi          = {10.5281/zenodo.8378219},
   url          = {https://doi.org/10.5281/zenodo.8378219}
-}
+  }
 ```
